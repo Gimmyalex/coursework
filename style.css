@@ -1,0 +1,55 @@
+nav{
+  color: rgba(29, 26, 26, 0.274);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+nav a{
+  text-decoration: none;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+body{
+    background: rgb(17, 37, 75);
+    text-align: center;
+}
+
+h1{
+    color: #FFF !important;
+    font-size: 2em;
+    padding-top: 100px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center;
+  }
+
+p {
+    color: aliceblue;
+    line-height: 1.3em;
+    text-align: left;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  #banner {
+    background-color: black;
+    background-size: cover;
+    background-position: bottom center;
+    height: 800px;
+    width: 1400px;
+    background-image: url(images/sneakers.jpg);
+  }
+
+  #banner .content h1 {
+    border: 3px solid white;
+    position: relative;
+    top: 50px;
+    width: 400px;
+    margin: 0 auto;
+  }
+
+  a{
+    color: white;
+  }
